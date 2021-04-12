@@ -1,0 +1,24 @@
+Turn Up the light F700FF
+Turn down the light F7807F
+Turn OFF F740BF
+Turn On F7C03F
+Red F720DF
+Green F7A05F 
+Blue F7609F
+White F7E01F
+Red 1 (light) F710EF
+Red 2 (really light) F730CF
+Red 3 (really really light) F708F7
+Red 4 (really really really light) F728D7
+Green 1 F7906F
+Green 2 F7B04F
+Green 3 F78877
+Green 4 F7A857
+Blue 1 F750AF
+Blue 2 F7708F
+Blue 3 F748B7
+Blue 4 F76897
+Flash F7D02F
+Strobe F7F00F
+Fade F7C837
+Smooth F7E817
