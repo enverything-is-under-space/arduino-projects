@@ -1,0 +1,43 @@
+Turn OFF/ON FD9A65
+info FD1AE5
+subtitle FD18E7
+mute FD9867
+Much back (back movie) FDB24D
+Less back (next movie) FD8A75
+Play (movie) FD708F
+Pause (Stop/pause) FD48B7
+Little back (back second in movie) FDB04F
+Little next (next second in movie) FD8877
+menu FDA25D
+Ch+ FD609F
+exit FDA05F
+vol- FD5AA5
+ok FD58A7
+vol+ FDD827
+record FDAA55
+ch- FD6897
+stop recording FDA857
+1 FD4AB5
+2 FD0AF5
+3 FD08F7
+EPG FDC837
+4 FD6A95
+5 FD2AD5
+6 FD28D7
+Back FDE817
+7 FD728D
+8 FD32CD
+9 FD30CF
+0 FDF00F
+media FD52AD
+usb FD12ED
+tv/radio FD10EF
+audio FDD02F
+ttx FD629D
+timer FD22DD
+fav FD20DF
+res FDE01F
+red button FD42BD
+green button FD02FD
+yellow button FD00FF
+blue button FDC03F
